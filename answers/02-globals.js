@@ -10,3 +10,4 @@
 
 console.log("Directory path:", __dirname)
 console.log(process.env.MY_VAR)
+s
