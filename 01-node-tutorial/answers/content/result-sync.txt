@@ -1,0 +1,1 @@
+testing out the built-in fs module: Hello this is first text file, Hello this is second text filetesting out the built-in fs module: Hello this is first text file, Hello this is second text filetesting out the built-in fs module: Hello this is first text file, Hello this is second text file
