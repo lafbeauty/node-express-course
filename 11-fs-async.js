@@ -1,5 +1,6 @@
-const { readFile, writeFile } = require('fs')
+const { readFile, writeFile } = require('fs') //importing the fs module package 
 
+//provides two parameters: the path to file & 
 console.log('start')
 readFile('./content/first.txt', 'utf8', (err, result) => {
   if (err) {

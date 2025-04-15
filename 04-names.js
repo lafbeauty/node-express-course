@@ -6,6 +6,6 @@ const peter = "peter"
 
 module.exports = { john, peter }
 
-console.log(module) //returns an object called exports along with a bunch of other stuff
+//console.log(module) //returns an object called exports along with a bunch of other stuff
 
-module.exports = { john, peter }
+
