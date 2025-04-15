@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 const { readFile, writeFile } = require('fs')
 
+=======
+const { readFile, writeFile } = require('fs') //importing the fs module package 
+
+//provides two parameters: the path to file & 
+>>>>>>> c0473ab05b36dc963e6d434c9b56c4d6a3decdb4
 console.log('start')
 readFile('./content/first.txt', 'utf8', (err, result) => {
   if (err) {

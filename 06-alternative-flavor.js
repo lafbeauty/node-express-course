@@ -5,4 +5,8 @@ const person = {
 }
 
 //propety
+<<<<<<< HEAD
+=======
+
+>>>>>>> c0473ab05b36dc963e6d434c9b56c4d6a3decdb4
 module.exports.singlePerson = person

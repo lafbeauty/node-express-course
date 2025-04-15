@@ -10,4 +10,8 @@
 
 console.log("Directory path:", __dirname)
 console.log(process.env.MY_VAR)
+<<<<<<< HEAD
 s
+=======
+
+>>>>>>> c0473ab05b36dc963e6d434c9b56c4d6a3decdb4
