@@ -12,3 +12,8 @@ stream.on("data", (result) => {
 })
 
 stream.on("error", (err) => console.log(err))
+
+//Revised after asking my reviewer
+stream.on("end", () => {
+  console.log(`There are ${counter} chunks of data`)
+})
