@@ -5,4 +5,5 @@ const person = {
 }
 
 //propety
+
 module.exports.singlePerson = person

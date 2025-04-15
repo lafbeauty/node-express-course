@@ -8,5 +8,7 @@ console.log(filePath)
 const base = path.basename(filePath)
 console.log(base)
 
-const absolute = path.resolve(__dirname, 'content', 'subfolder', 'test.txt')
+const absolute = path.resolve(__dirname, 'content', 'subfolder', 'test.txt')//gonna point to your app bc its a __dirname = global variable 
 console.log(absolute)
+
+//app is gonna run in different environments so path brings different things in 
