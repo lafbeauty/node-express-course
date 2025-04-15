@@ -27,7 +27,7 @@ async function writer() {
 async function reader() {
   console.log("reading")
   try {
-    const read1 = await readFile("./temp.txt", utf8)
+    const read1 = await readFile("./temp.txt", "utf8")
     console.log(read1)
   } catch (error) {
     console.log("error with read1", error)
